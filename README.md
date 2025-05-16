@@ -1,10 +1,8 @@
 # CS361_Microservice
 
-#########################################################
 
-                    INSTRUCTIONS
+I. INSTRUCTIONS
                     
-#########################################################
 
 ########## HOW TO REQUEST DATA ##########
 
@@ -74,19 +72,11 @@ Example:
   "slot": "slot1"
 }
 
-#########################################################
+II. UML SEQUENCE DIAGRAM
 
-                  UML SEQUENCE DIAGRAM
-                  
-#########################################################
+![UML Sequence Diagram](images/sequence_chart.jpg)
 
-![UML Sequence Diagram](images/sequence_diagram.jpg)
-
-#########################################################
-
-                  COMMUNICATION CONTRACT
-                  
-#########################################################
+III. COMMUNICATION CONTRACT
 
 A. For which teammate did you implement “Microservice A”?
 
